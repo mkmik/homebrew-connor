@@ -1,6 +1,6 @@
 cask "connor" do
-  version "0.51.0"
-  sha256 "a5ba74f181bbb0bde649d4d6793599748c3c1e6052f8c098714d99396ec2d3ed"
+  version "0.52.0"
+  sha256 "06960169112fd8ab1b541b750027cd401e23c02bca243363ef192efa41999a47"
 
   url "https://github.com/mkmik/connor/releases/download/v#{version}/Connor-v#{version}.dmg"
   name "Connor"
