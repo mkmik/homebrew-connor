@@ -7,7 +7,7 @@ cask "connor" do
   desc "Developer tools macOS application"
   homepage "https://github.com/mkmik/connor"
 
-  depends_on macos: ">= :sonoma"
+  depends_on macos: :sonoma
 
   app "Connor.app"
 
